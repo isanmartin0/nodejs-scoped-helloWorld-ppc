@@ -10,6 +10,9 @@ useNpmMirror: false
 npmMirror: https://registry.npmjs.org/
 useAlternateNpmRun: true
 alternateNpmRunScript: script_prueba
+customCredentials:
+isPrivate: false
+
 
 ports:
   useSpecificPort: true
